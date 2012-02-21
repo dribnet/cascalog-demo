@@ -5,3 +5,4 @@ This is the companion project for the Cascalog tutorial located at:
 The tutorial walks through a non-trivial Cascalog query and shows how to run it in production.
 
 This is a change being made we feb 22, 2012.
+
