@@ -6,3 +6,4 @@ The tutorial walks through a non-trivial Cascalog query and shows how to run it 
 
 This is a change being made we feb 22, 2012.
 
+
